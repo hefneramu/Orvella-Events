@@ -1,0 +1,6 @@
+node_modules/
+.env
+orvella.db
+orvella.db-shm
+orvella.db-wal
+npm-debug.log*

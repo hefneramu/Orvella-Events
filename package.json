@@ -1,0 +1,7 @@
+{
+  "name":"orvella-events","version":"1.0.0",
+  "description":"Orvella Events booking, enquiry and admin dashboard website",
+  "main":"server.js",
+  "scripts":{"start":"node server.js","dev":"node --watch server.js"},
+  "dependencies":{"better-sqlite3":"^12.10.0","dotenv":"^16.4.7","express":"^4.21.2","express-session":"^1.18.1"}
+}
